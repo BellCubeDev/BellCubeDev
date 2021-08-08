@@ -16,5 +16,5 @@ I'm BellCube, an internet gamer and programmer-by-hobby. Programming is my passi
 * Skyrim (modded)
 * Call of Duty: Infinite Warfare (console)
 
-# Links
-* Coming Soon™
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellCubeDev)](https://github.com/anuraghazra/github-readme-stats)
+
