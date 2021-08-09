@@ -2,7 +2,7 @@
 I'm BellCube, an internet gamer and programmer-by-hobby. Programming is my passion, and logic is my aproach.
 
 # Current Projects
-- [ ] [Additional Clockwork (Skyrim SE)](https://www.nexusmods.com/skyrimspecialedition/mods/47087)
+- [Additional Clockwork (Skyrim SE)](https://www.nexusmods.com/skyrimspecialedition/mods/47087)
 - [X] Unreleased Minecraft datapack. Waiting for its debeut on a livestream...
 - [X] Another unreleased Minecraft datapack, to be released after the previous one
 
