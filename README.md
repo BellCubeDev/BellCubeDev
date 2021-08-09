@@ -6,6 +6,9 @@ I'm BellCube, an internet gamer and programmer-by-hobby. Programming is my passi
 - [X] Unreleased Minecraft datapack. Waiting for its debeut on a livestream...
 - [X] Another unreleased Minecraft datapack, to be released after the previous one
 
+[![BellCube's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellCubeDev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # About me...
 * I use Windows for life. Linux is too much, and Mac is too little (Heavens forbid Chrome OS!).
 * I am a security freak. I own a physical USB security key.
@@ -15,6 +18,3 @@ I'm BellCube, an internet gamer and programmer-by-hobby. Programming is my passi
 * Minecraft (both modded and vanilla)
 * Skyrim (modded)
 * Call of Duty: Infinite Warfare (console)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellCubeDev)](https://github.com/anuraghazra/github-readme-stats)
-
