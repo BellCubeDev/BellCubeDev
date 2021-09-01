@@ -2,13 +2,13 @@
 
 I'm BellCube, an internet gamer, and programmer-by-hobby. Programming is my passion, and logic is my approach.
 
-[![BellCube's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellCubeDev)](https://github.com/anuraghazra/github-readme-stats)
+[![BellCube's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellCubeDev&theme=github_dark&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 # **Current Projects**
 
-- [Additional Clockwork (Skyrim SE)](https://www.nexusmods.com/skyrimspecialedition/mods/47087)
+[![Additional Clockwork repo stats](https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=AdditionalClockwork&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 - [X] An unreleased Minecraft datapack waiting for its debut on a livestream...
 - [X] Another unreleased Minecraft datapack (to be released after the previous one)
 
