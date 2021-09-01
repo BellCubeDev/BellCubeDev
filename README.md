@@ -8,7 +8,7 @@ I'm BellCube, an internet gamer, and programmer-by-hobby. Programming is my pass
 
 # **Current Projects**
 
-[![Additional Clockwork repo stats](https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=AdditionalClockwork&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Additional Clockwork repo stats](https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=AdditionalClockwork&theme=github_dark)](https://github.com/BellCubeDev/AdditionalClockwork)
 - [X] An unreleased Minecraft datapack waiting for its debut on a livestream...
 - [X] Another unreleased Minecraft datapack (to be released after the previous one)
 
