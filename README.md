@@ -1,6 +1,6 @@
 # **BellCube Dev**
 
-I'm BellCube, an internet gamer, and programmer-by-hobby. Programming is my passion, and logic is my approach.
+I'm BellCube, a player of all things Minecraft, modder of all things Skyrim. A programmer by hobby. Logical by nature.
 
 [![BellCube's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellCubeDev&theme=github_dark&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
