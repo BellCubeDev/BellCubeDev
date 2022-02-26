@@ -8,7 +8,7 @@ I'm BellCube, a player of all things Minecraft, modder of all things Skyrim. A p
 
 # **Current Projects**
 
-[![Additional Clockwork repo stats](https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=AdditionalClockwork&theme=github_dark)](https://github.com/BellCubeDev/AdditionalClockwork)
+[![Additional Clockwork repo stats](https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=AdditionalClockwork&theme=github_dark)](https://github.com/BellCubeDev/AdditionalClockwork)<br />[![Linear Spell Progression repo stats](https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=LinearSpellProgression&theme=github_dark)](https://github.com/BellCubeDev/LinearSpellProgression)
 - [X] An unreleased Minecraft datapack waiting for its debut on a livestream...
 - [X] Another unreleased Minecraft datapack (to be released after the previous one)
 
