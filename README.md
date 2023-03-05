@@ -2,13 +2,29 @@
 
 I'm BellCube, a player of all things Minecraft, modder of all things Skyrim. A programmer by hobby. Logical by nature.
 
-[![BellCube's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellCubeDev&theme=github_dark&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+<a align="justify" href="https://github.com/anuraghazra/github-readme-stats">
+    <img valign="top" alt="BellCube's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BellCubeDev&show_icons=true&hide_rank=true&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
+    <img valign="top" alt="BellCube's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellCubeDev&langs_count=5&hide=JavaScript,Ruby,Nix&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
+</a>
 
 <br>
 
 # **Current Projects**
 
-[![Additional Clockwork repo stats](https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=AdditionalClockwork&theme=github_dark)](https://github.com/BellCubeDev/AdditionalClockwork)<br />[![Linear Spell Progression repo stats](https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=LinearSpellProgression&theme=github_dark)](https://github.com/BellCubeDev/LinearSpellProgression)<br />[![Woodworker's Whim repo stats](https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=WoodworkersWhim&theme=github_dark)](https://github.com/BellCubeDev/WoodworkersWhim)<br />[![Site Testing repo stats](https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=site-testing&theme=github_dark)](https://github.com/BellCubeDev/site-testing)
+<div align="center">
+    <a height="175" href="https://github.com/BellCubeDev/AdditionalClockwork">
+        <img valign="top" width="400" alt="Additional Clockwork repo stats" src="https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=AdditionalClockwork&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
+    </a>
+    <a height="175" href="https://github.com/BellCubeDev/LinearSpellProgression">
+        <img valign="top" width="400" alt="Linear Spell Progression repo stats" src="https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=LinearSpellProgression&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
+    </a>
+    <a height="175" href="https://github.com/BellCubeDev/WoodworkersWhim">
+        <img valign="top" width="400" alt="Woodworker's Whim repo stats" src="https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=WoodworkersWhim&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
+    </a>
+    <a height="175" href="https://github.com/BellCubeDev/site-testing">
+        <img valign="top" width="400" alt="Site Testing repo stats" src="https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=site-testing&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
+    </a>
+</div>
 
 <br>
 
@@ -18,8 +34,11 @@ I'm BellCube, a player of all things Minecraft, modder of all things Skyrim. A p
 * I am a security freak. I own a physical USB security key.
 * Macros are nice. I have a Logitech G mouse.
 
-### (Current) Favorite Games
+### Favorite Games
 
 * Minecraft (both modded and vanilla)
 * Skyrim (modded)
-* Call of Duty: Infinite Warfare (console)
+* Holloow Knight
+* Stardew Valley
+* SPORE
+* Call of Duty: Infinite Warfare
