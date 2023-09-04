@@ -38,7 +38,7 @@ I'm BellCube, a player of all things Minecraft, modder of all things Skyrim. A p
 
 * Minecraft (both modded and vanilla)
 * Skyrim (modded)
-* Holloow Knight
+* Hollow Knight
 * Stardew Valley
 * SPORE
 * Call of Duty: Infinite Warfare
