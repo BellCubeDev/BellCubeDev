@@ -30,15 +30,16 @@ I'm BellCube, a player of all things Minecraft, modder of all things Skyrim. A p
 
 # **About me**
 
-* I use Windows for life. Linux is too much, and Mac is too little (and heavens forbid Chrome OS!).
+* ~~I use Windows for life. Linux is too much~~, and Mac is too little (and heavens forbid Chrome OS!). EDIT: Hello from Linux!
 * I am a security freak. I own a physical USB security key.
 * Macros are nice. I have a Logitech G mouse.
+* [I moderate](https://next.nexusmods.com/profile/BellCube) for Nexus Mods
 
 ### Favorite Games
 
+* Hollow Knight
 * Minecraft (both modded and vanilla)
 * Skyrim (modded)
-* Hollow Knight
 * Stardew Valley
 * SPORE
 * Call of Duty: Infinite Warfare
