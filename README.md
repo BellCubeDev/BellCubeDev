@@ -1,28 +1,35 @@
 # **BellCube Dev**
 
-I'm BellCube, a player of all things Minecraft, modder of all things Skyrim. A programmer by hobby. Logical by nature.
+Howdy! I'm BellCube. I mostly make stuff that I'm mad doesn't exist yet.
 
-<a align="justify" href="https://github.com/anuraghazra/github-readme-stats">
-    <img valign="top" alt="BellCube's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BellCubeDev&show_icons=true&hide_rank=true&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
-    <img valign="top" alt="BellCube's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellCubeDev&langs_count=5&hide=JavaScript,Ruby,Nix&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
-</a>
+Programmer by hobby. Thinker by nature¹.
+
+**`1`** – *Just I like to think does not mean I'm good at it*
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img valign="top" alt="BellCube's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BellCubeDev&show_icons=true&hide_rank=true&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
+        <img valign="top" alt="BellCube's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellCubeDev&langs_count=5&hide=JavaScript,Ruby,Nix&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
+    </a>
+</div>
+
 
 <br>
 
 # **Current Projects**
 
 <div align="center">
-    <a height="175" href="https://github.com/BellCubeDev/AdditionalClockwork">
-        <img valign="top" width="400" alt="Additional Clockwork repo stats" src="https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=AdditionalClockwork&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
+    <a height="175" href="https://github.com/BellCubeDev/papyrus-index">
+        <img valign="top" width="400" alt="the Papyrus Index's repo stats" src="https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=papyrus-index&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
     </a>
     <a height="175" href="https://github.com/BellCubeDev/fomod-builder">
-        <img valign="top" width="400" alt="Fomod Builder repo stats" src="https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=fomod-builder&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
+        <img valign="top" width="400" alt="the Fomod Builder's repo stats" src="https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=fomod-builder&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
     </a>
-    <a height="175" href="https://github.com/BellCubeDev/WoodworkersWhim">
-        <img valign="top" width="400" alt="Woodworker's Whim repo stats" src="https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=WoodworkersWhim&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
+    <a height="175" href="https://github.com/BellCubeDev/AdditionalClockwork">
+        <img valign="top" width="400" alt="Additional Clockwork's repo stats" src="https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=AdditionalClockwork&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
     </a>
     <a height="175" href="https://github.com/BellCubeDev/fomod-js">
-        <img valign="top" width="400" alt="Fomod JavaScript Library repo stats" src="https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=fomod-js&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
+        <img valign="top" width="400" alt="the Fomod JavaScript Library's repo stats" src="https://github-readme-stats.vercel.app/api/pin?username=BellCubeDev&repo=fomod-js&theme=github_dark&title-color=329cff&icon_color=ffd43b&bg_color=0000&hide_border=true">
     </a>
 </div>
 
