@@ -38,9 +38,9 @@ Programmer by hobby. Thinker by nature¹.
 # **About me**
 
 * ~~I use Windows for life. Linux is too much~~, and Mac is too little (and heavens forbid Chrome OS!). EDIT: Hello from Linux!
-* I am a security freak. I own a physical USB security key.
+* I am a security freak. I own a physical USB security key. Please implement passkey auth in your next service.
 * Macros are nice. I have a Logitech G mouse.
-* [I moderate](https://next.nexusmods.com/profile/BellCube) for Nexus Mods
+* [I volunteer to help moderate](https://next.nexusmods.com/profile/BellCube) for Nexus Mods
 
 ### Favorite Games
 
