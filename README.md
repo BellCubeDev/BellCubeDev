@@ -1,4 +1,4 @@
-# **BellCube Dev**
+# **BellCube**
 
 Howdy! I'm BellCube. I mostly make stuff that I'm mad doesn't exist yet.
 
